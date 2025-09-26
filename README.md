@@ -3,8 +3,8 @@ Compromising windows using Metasploit
 # Metasploit
 Compromising windows using Metasploit
 
-### Developed By:GEDIPUDI DARSHANI
-### REGISTER NUMBER: 212223230062
+### Developed By: Hemanth Kumar R
+### REGISTER NUMBER: 212223040065
 
 # AIM:
 
